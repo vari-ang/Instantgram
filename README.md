@@ -17,3 +17,6 @@ Aplikasi berbagi foto berbasis website (Instagram Clone) dengan teknologi PHP, A
   - Komentar
 - Halaman tambah posting baru
 - Halaman search user
+
+Di bawah ini adalah tampilan ERD yang digunakan pada website Instangram.
+![ERD Instantgram](https://github.com/vari8/Instantgram/blob/master/assets/ERD%20Instantgram.png)
